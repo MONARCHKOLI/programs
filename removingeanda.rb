@@ -3,5 +3,8 @@
 
 sentence = "Hii my name is Suresh"
 
-name = sentence.delete!("ae")
+
+
+
+newname = sentence.delete!("ae")
 puts sentence
